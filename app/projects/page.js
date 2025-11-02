@@ -16,7 +16,7 @@ const projects = [
     description:
       "Kamal Hara is my personal portfolio website where I showcase my work and share my journey as a Front-end developer.",
     img: "/project.png",
-    code: "#",
+    code: "https://github.com/kamalhara/kamal-hara---portfolio",
     live: "#",
   },
   {
@@ -48,7 +48,7 @@ const projects = [
 
 export default function Projects() {
   return (
-    <section className="min-h-screen py-20 bg-(--background) text-(--primary) font-(--font-poppins)">
+    <section className="min-h-screen py-20 bg-(--background) text-(--primary) font-(--font-poppins) md:mt-10">
       {/* Header */}
       <div className="max-w-6xl mx-auto px-4 sm:px-6 mb-10 md:mb-16">
         <div className="flex flex-col  gap-4 w-full font-semibold">
