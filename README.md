@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [Visit Portfolio](https://your-portfolio.vercel.app)  
+🔗 [Visit Portfolio](https://kamal-hara-portfolio.vercel.app/)  
 (_Custom domain coming soon_)
 
 ---
