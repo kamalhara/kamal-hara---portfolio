@@ -57,11 +57,7 @@ function Skills() {
             <p className="text-(--primary) text-sm sm:text-xl leading-relaxed">
               JavaScript
               <br />
-              TypeScript
-              <br />
               Python
-              <br />
-              Ruby
               <br />
               C++
             </p>

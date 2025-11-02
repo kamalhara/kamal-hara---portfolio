@@ -11,9 +11,9 @@ function MainSec() {
       <p className="font-mono text-(--primary) mx-4 text-base sm:text-lg md:text-xl my-10 md:ml-[100px] md:mr-[200px]">
         Detail-oriented software engineer with great passion for UI creation,
         effects, animation and dynamic user experiences. Major tech stack
-        includes Html, Css, JavaScript, Tailwind Css, NextJS, ReactJS, and
-        Redux. Devoted to developing customized software to meet organisational
-        needs, highlight their core competencies, and further their success.
+        includes Html, Css, JavaScript, Tailwind Css, ReactJS, NextJS and Redux.
+        Devoted to developing customized software to meet organisational needs,
+        highlight their core competencies, and further their success.
       </p>
       <a
         href="#contact"
