@@ -102,12 +102,16 @@ export default function Projects() {
             <div className="flex gap-3 mt-4">
               <a
                 href={project.code}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="border border-(--purple) text-(--white) px-3 py-1 sm:px-4 sm:py-3 text-md sm:text-xl transition-colors cursor-pointer hover:border-(--white) hover:bg-(--purple) hover:text-(--white)"
               >
                 Code ↗
               </a>
               <a
                 href={project.live}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="border border-(--border) text-(--white) px-3 py-1 sm:px-4 sm:py-3 text-md sm:text-xl transition-colors cursor-pointer hover:border-(--white) hover:bg-gray-400 hover:text-(--white)"
               >
                 Live ↗
