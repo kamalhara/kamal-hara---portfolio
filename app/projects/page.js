@@ -38,10 +38,18 @@ const projects = [
   {
     title: "Bankist",
     description:
-      "The Pizza Menu App is a simple ReactJS project that displays a list of pizzas with their details (name, description, and availability).It was built to practice React fundamentals like components, props, and conditional rendering.",
+      "A modern, minimalist banking website built with HTML, CSS, and JavaScript. This project showcases smooth scrolling, lazy-loaded images, tabbed components, a feedback slider, sticky navigation, and modal windows.",
     img: "/bankist.png",
     code: "https://github.com/kamalhara/Bankist-app",
     live: "https://kamalhara.github.io/Bankist-app/",
+  },
+  {
+    title: "Use Popcorn",
+    description:
+      "A simple React app to search, view, and track movies using the OMDb API. Users can search for movies, see details, add them to a watched list, and rate them.",
+    img: "/usepopcorn.png",
+    code: "https://github.com/kamalhara/usePopcorn",
+    live: "https://kamalhara.github.io/usePopcorn",
   },
   {
     title: "Pizza menu",
