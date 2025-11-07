@@ -11,21 +11,20 @@ const projects = [
     live: "the-wild-oasis-staff-mauve.vercel.app",
   },
   {
+    title: "World Wise",
+    description:
+      "The Pizza Menu App is a simple ReactJS project that displays a list of pizzas with their details (name, description, and availability).It was built to practice React fundamentals like components, props, and conditional rendering.",
+    img: "/worldwise.png",
+    code: "https://github.com/kamalhara/wordwise",
+    live: "https://wordwise-kappa.vercel.app/",
+  },
+  {
     title: "Bankist",
     description:
       "A modern, minimalist banking website built with HTML, CSS, and JavaScript.This project showcases smooth scrolling, lazy-loaded images, tabbed components, a feedback slider, sticky navigation, and modal windows.",
     img: "/bankist.png",
     code: "https://github.com/kamalhara/Bankist-app?tab=readme-ov-file",
     live: "https://kamalhara.github.io/Bankist-app/",
-  },
-  {
-    title: "The Wild Oasis",
-    description:
-      "A modern hotel management web app built with Next.js 14, Supabase, and Tailwind CSS — designed to manage cabins, bookings, and guest data seamlessly with an elegant, minimal UI.",
-
-    img: "/wild-oasis.png",
-    code: "https://github.com/kamalhara/the-wild-oasis",
-    live: "https://the-wild-oasis-virid-theta.vercel.app/",
   },
 ];
 
