@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 "use client";
 
 const projects = [
@@ -13,7 +14,7 @@ const projects = [
   {
     title: "World Wise",
     description:
-      "The Pizza Menu App is a simple ReactJS project that displays a list of pizzas with their details (name, description, and availability).It was built to practice React fundamentals like components, props, and conditional rendering.",
+      "A modern, responsive web application built with Vite + React, designed to showcase global destinations, experiences, or creative work with style and performance in mind.",
     img: "/worldwise.png",
     code: "https://github.com/kamalhara/wordwise",
     live: "https://wordwise-kappa.vercel.app/",
