@@ -1,5 +1,4 @@
 "use client";
-import { motion } from "framer-motion";
 
 const projects = [
   {
@@ -10,6 +9,14 @@ const projects = [
     img: "/wild-oasis.png",
     code: "https://github.com/kamalhara/the-wild-oasis",
     live: "https://the-wild-oasis-virid-theta.vercel.app/",
+  },
+  {
+    title: "World Wise",
+    description:
+      "The Pizza Menu App is a simple ReactJS project that displays a list of pizzas with their details (name, description, and availability).It was built to practice React fundamentals like components, props, and conditional rendering.",
+    img: "/worldwise.png",
+    code: "https://github.com/kamalhara/wordwise",
+    live: "https://wordwise-kappa.vercel.app/",
   },
   {
     title: "Kamal hara",
@@ -32,17 +39,17 @@ const projects = [
     description:
       "The Pizza Menu App is a simple ReactJS project that displays a list of pizzas with their details (name, description, and availability).It was built to practice React fundamentals like components, props, and conditional rendering.",
     img: "/bankist.png",
-    code: "https://github.com/kamalhara/Pizza-menu?tab=readme-ov-file",
-    live: "https://kamalhara.github.io/Pizza-menu/",
+    code: "https://github.com/kamalhara/Bankist-app",
+    live: "https://kamalhara.github.io/Bankist-app/",
   },
   {
     title: "Pizza menu",
     description:
-      "A modern hotel management web app built with Next.js 14, Supabase, and Tailwind CSS — designed to manage cabins, bookings, and guest data seamlessly with an elegant, minimal UI.",
+      "The Pizza Menu App is a simple ReactJS project that displays a list of pizzas with their details (name, description, and availability).It was built to practice React fundamentals like components, props, and conditional rendering.s",
 
     img: "/pizza-menu.png",
-    code: "https://github.com/kamalhara/the-wild-oasis",
-    live: "https://the-wild-oasis-virid-theta.vercel.app/",
+    code: "https://github.com/kamalhara/Pizza-menu",
+    live: "https://kamalhara.github.io/Pizza-menu/",
   },
 ];
 
