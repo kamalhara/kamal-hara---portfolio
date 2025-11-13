@@ -19,12 +19,12 @@ const projects = [
     live: "https://wordwise-kappa.vercel.app/",
   },
   {
-    title: "Bankist",
+    title: "Nexcent",
     description:
-      "A modern, minimalist banking website built with HTML, CSS, and JavaScript.This project showcases smooth scrolling, lazy-loaded images, tabbed components, a feedback slider, sticky navigation, and modal windows.",
-    img: "/bankist.png",
-    code: "https://github.com/kamalhara/Bankist-app?tab=readme-ov-file",
-    live: "https://kamalhara.github.io/Bankist-app/",
+      "A modern, responsive Login Page built using Next.js and Tailwind CSS.This page is part of the Nexcent project, providing a clean and accessible authentication interface.",
+    img: "/nexcent.png",
+    code: "https://github.com/kamalhara/nexcent",
+    live: "https://nexcent-six-chi.vercel.app/",
   },
 ];
 

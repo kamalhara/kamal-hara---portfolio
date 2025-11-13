@@ -12,6 +12,14 @@ const projects = [
     live: "https://the-wild-oasis-virid-theta.vercel.app/",
   },
   {
+    title: "Nexcent",
+    description:
+      "A modern, responsive Login Page built using Next.js and Tailwind CSS.This page is part of the Nexcent project, providing a clean and accessible authentication interface.",
+    img: "/nexcent.png",
+    code: "https://github.com/kamalhara/nexcent",
+    live: "https://nexcent-six-chi.vercel.app/",
+  },
+  {
     title: "World Wise",
     description:
       "A modern, responsive web application built with Vite + React, designed to showcase global destinations, experiences, or creative work with style and performance in mind.",
