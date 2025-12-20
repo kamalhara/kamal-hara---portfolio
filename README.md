@@ -31,11 +31,13 @@ The homepage contains the **About** and **Contact** sections, while the **Projec
 
 ## 🛠️ Built With
 
-- **Frontend:** Next js + Tailwind CSS
+- **Frontend:** Next.js + React + Tailwind CSS
+- **Backend:** Node.js + Express + MongoDB
 - **Deployment:** Vercel
 - **Version Control:** Git & GitHub
 
 _(Adjust these if you used Next.js or other frameworks)_
 
 ---
+
 # kamal-hara---portfolio

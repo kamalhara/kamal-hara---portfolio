@@ -30,7 +30,7 @@ const projects = [
   {
     title: "Kamal hara",
     description:
-      "Kamal Hara is my personal portfolio website where I showcase my work and share my journey as a Front-end developer.",
+      "Kamal Hara is my personal portfolio website where I showcase my work and share my journey as a Fullstack developer.",
     img: "/project.png",
     code: "https://github.com/kamalhara/kamal-hara---portfolio",
     live: "#",

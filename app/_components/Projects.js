@@ -5,7 +5,7 @@ const projects = [
   {
     title: "The Wild Oasis - Owner Dashboard",
     description:
-      "The Wild Oasis Dashboard is the internal admin panel of The Wild Oasis ecosystem. It empowers hotel owners and staff to efficiently manage cabins, guests, and bookings, monitor sales performance, and visualize occupancy insights",
+      "A full-stack admin dashboard built with Next.js and Supabase. Features backend API integration for managing cabins, guests, bookings, sales analytics, and occupancy insights with secure authentication.",
     img: "/wild-oasis-staff.png",
     code: "https://github.com/kamalhara/the-wild-oasis-staff",
     live: "the-wild-oasis-staff-mauve.vercel.app",

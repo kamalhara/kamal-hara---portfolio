@@ -15,7 +15,7 @@ function Footer() {
             <span className="text-(--primary)">kamalhara7@gmail.com</span>
           </a>
         </div>
-        <p className="text-(--white)  md:text-xl ml-2">Frontend developer</p>
+        <p className="text-(--white)  md:text-xl ml-2">Fullstack developer</p>
       </div>
 
       <div className=" gap-4 mt-3 mr-20 mb-10 ">

@@ -52,25 +52,52 @@ function Skills() {
         <div className="max-w-xl grid sm:grid-cols-2 mt-10 grid-cols-2 gap-6 text-(--white) font-mono items-center">
           <div className="border border-(--border) p-4  sm:w-60">
             <h3 className="sm:text-xl  text-(--purple) mb-3 font-semibold border-b-2 border-(--border)">
-              Languages
+              Language
             </h3>
             <p className="text-(--primary) text-sm sm:text-xl leading-relaxed">
               JavaScript
               <br />
-              Python
-              <br />
-              C++
             </p>
           </div>
 
           <div className="border border-(--border) p-4 sm:w-70 m-5 ">
             <h3 className="sm:text-xl  text-(--purple) mb-3 font-semibold border-b-2 border-(--border)">
-              Frameworks
+              Frontend
             </h3>
             <p className="text-(--primary) text-sm leading-relaxed sm:text-xl ">
               ReactJS
               <br />
               NextJS
+              <br />
+              Redux
+              <br />
+            </p>
+          </div>
+
+          <div className="border border-(--border) p-4 ">
+            <h3 className="sm:text-xl  text-(--purple) mb-3 font-semibold border-b-2 border-(--border)">
+              Backend
+            </h3>
+            <p className="text-(--primary) text-sm leading-relaxed sm:text-xl ">
+              NodeJS
+              <br />
+              Express
+              <br />
+              REST APIs
+              <br />
+              Mongoose
+              <br />
+              Authentication
+              <br />
+            </p>
+          </div>
+
+          <div className="border border-(--border) p-4 ">
+            <h3 className="sm:text-xl  text-(--purple) mb-3 font-semibold border-b-2 border-(--border)">
+              Databases
+            </h3>
+            <p className="text-(--primary) text-sm leading-relaxed sm:text-xl ">
+              MongoDB
               <br />
             </p>
           </div>
@@ -85,6 +112,7 @@ function Skills() {
               GitHub
               <br />
               VSCode
+              <br />
             </p>
           </div>
 
@@ -101,9 +129,8 @@ function Skills() {
               <br />
               Bootstrap
               <br />
-              REST
+              API Development
               <br />
-              Redux
             </p>
           </div>
         </div>

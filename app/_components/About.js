@@ -21,9 +21,10 @@ export default function About() {
           <p className="text-xl">Hello, I&apos;m Kamal Hara!</p>
 
           <p className="text-md md:text-xl leading-relaxed">
-            I&apos;m a Front-End Developer located in Punjab, India. I have a
-            strong passion for UI creation, effects, animations, and dynamic
-            user experiences.
+            I&apos;m a Full-Stack Developer located in Punjab, India. I have a
+            strong passion for building end-to-end web applications, creating
+            beautiful UIs, developing robust backend systems, and delivering
+            dynamic user experiences.
           </p>
 
           <p className="text-lg leading-relaxed">
@@ -47,8 +48,10 @@ export default function About() {
           <div className="mt-6 border border-(--border) text-sm py-2 px-4 font-mono flex items-center gap-2">
             <span className="w-3 h-3 bg-(--purple) inline-block"></span>
             <p className="flex gap-3">
-              Currentlylearning
-              <span className="text-(--purple) font-semibold">Backend dev</span>
+              Currently working on
+              <span className="text-(--purple) font-semibold">
+                Fullstack projects
+              </span>
             </p>
           </div>
         </div>
