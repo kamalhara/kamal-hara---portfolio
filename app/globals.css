@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+:root {
+  --font-poppins: "Poppins", sans-serif;
+  --font-jetbrains: "JetBrains Mono", monospace;
+
+  --background: #282c33;
+  --foreground: #abb2bf;
+  --border: #abb2bf;
+  --primary: #abb2bf;
+  --secondary: #282c33;
+  --white: #ffffff;
+  --purple: #c778dd;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-poppins);
+}
+
+.font-mono {
+  font-family: var(--font-jetbrains);
+}
