@@ -20,6 +20,14 @@ const projects = [
     code: "https://github.com/kamalhara/natours-backend",
   },
   {
+    title: "Dine time app",
+    description:
+      "A cross-platform mobile app for tracking personal expenses. Features include category management, data visualization, cloud sync with Firebase, and real-time updates.",
+    technologies: "React Native · Expo · Firebase · NativeWind",
+    img: "/app.png",
+    code: "https://github.com/kamalhara/dine-time",
+  },
+  {
     title: "Nexcent",
     description:
       "A modern, responsive Login Page built using Next.js and Tailwind CSS.This page is part of the Nexcent project, providing a clean and accessible authentication interface.",
