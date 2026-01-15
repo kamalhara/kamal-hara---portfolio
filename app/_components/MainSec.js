@@ -13,7 +13,7 @@ function MainSec() {
   return (
     <div className="md:mt-36 mt-10 h-auto">
       <h1 className="text-3xl sm:text-4xl md:text-5xl font-semibold mx-4 text-(--white) block md:mx-0 md:ml-[100px] md:mr-[200px]">
-        Kamal Hara -{" "}
+        Kamalveer Singh -{" "}
         <span className="text-(--purple)">
           Full-Stack & Mobile App Developer
         </span>
