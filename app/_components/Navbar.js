@@ -18,7 +18,7 @@ function Navbar() {
         >
           <p className="flex gap-3.5 items-center justify-center">
             <FaCode className="text-(--purple)" />
-            KamalHara
+            Kamalveer Singh
           </p>
         </Link>
         <div className="text-lg md:text-xl sm:flex sm:gap-6 hidden text-(--primary) transition-all">

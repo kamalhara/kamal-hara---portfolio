@@ -18,11 +18,13 @@ export default function About() {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between px-4 md:px-6">
         {/* Left Text Side */}
         <div className="md:w-2/3 w-full font-mono space-y-6 text-center md:text-left">
-          <p className="text-xl">Hello, I&apos;m Kamal Hara!</p>
+          <p className="text-xl">Hello, I&apos;m Kamalveer Singh!</p>
 
           <p className="text-md md:text-xl leading-relaxed">
-            I&apos;m a Full-Stack and Mobile App Developer located in Punjab, India.
-            I build web applications with React and Next.js, mobile apps with React Native and Expo, and backend systems with Node.js and databases.
+            I&apos;m a Full-Stack and Mobile App Developer located in Punjab,
+            India. I build web applications with React and Next.js, mobile apps
+            with React Native and Expo, and backend systems with Node.js and
+            databases.
           </p>
 
           <p className="text-lg leading-relaxed">

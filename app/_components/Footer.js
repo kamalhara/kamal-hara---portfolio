@@ -8,7 +8,7 @@ function Footer() {
         <div className="flex gap-2">
           <p className="flex gap-3.5 items-center justify-center font-semibold text-(--white) ">
             <FaCode className="text-(--purple)" />
-            KamalHara
+            Kamalveer Singh
           </p>
 
           <a href="mailto:kamalhara@gmail.com">
