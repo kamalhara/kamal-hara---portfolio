@@ -7,7 +7,7 @@
 ## 🚀 Live Demo
 
 🔗 [Visit Portfolio](https://kamal-hara-portfolio.vercel.app/)  
-(_Custom domain coming soon_)
+
 
 ---
 
