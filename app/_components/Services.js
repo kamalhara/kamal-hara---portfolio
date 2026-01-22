@@ -14,14 +14,14 @@ export default function Services() {
         </div>
       </div>
 
-      {/* Services Grid */}
+
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 px-4 md:px-6">
-        {/* Web Development */}
-        <div className="border border-(--border) p-6 hover:border-(--purple) transition-colors">
+
+        <div className="border border-(--border) p-6 hover:border-(--purple) transition-colors font-mono">
           <h3 className="text-xl font-semibold text-(--white) mb-4">
             Web Development
           </h3>
-          <p className="text-(--primary) text-base leading-relaxed">
+          <p className="text-(--primary) text-base leading-relaxed ">
             Building responsive web applications using React.js, Next.js, and modern frontend tools. Focus on performance, accessibility, and user experience.
           </p>
           <ul className="text-(--primary) text-sm mt-4 space-y-1">
@@ -33,7 +33,7 @@ export default function Services() {
         </div>
 
         {/* Mobile App Development */}
-        <div className="border border-(--border) p-6 hover:border-(--purple) transition-colors">
+        <div className="border border-(--border) p-6 hover:border-(--purple) transition-colors font-mono">
           <h3 className="text-xl font-semibold text-(--white) mb-4">
             Mobile App Development
           </h3>
@@ -50,7 +50,7 @@ export default function Services() {
         </div>
 
         {/* Backend/API Development */}
-        <div className="border border-(--border) p-6 hover:border-(--purple) transition-colors">
+        <div className="border border-(--border) p-6 hover:border-(--purple) transition-colors font-mono">
           <h3 className="text-xl font-semibold text-(--white) mb-4">
             Backend/API Development
           </h3>
