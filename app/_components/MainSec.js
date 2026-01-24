@@ -23,67 +23,103 @@ function MainSec() {
         React Native, Expo, Node.js, Express, and cloud services like Firebase
         and AWS.
       </p>
+
       <a
         href="#contact"
         className="px-5 py-3 border-2 border-(--purple) text-(--white) text-lg sm:text-xl font-semibold ml-4 md:ml-[100px] md:mr-[200px] cursor-pointer hover:border-(--white) hover:bg-(--purple) hover:text-(--primary)"
       >
         Contact me !!
       </a>
-      <div className="px-4 flex flex-row items-center my-10 justify-center py-2">
-        <div className="border-2 w-full max-w-[320px] sm:max-w-[350px] md:w-[224px] px-3 h-28 flex items-center justify-between gap-2 border-(--border) transition-all overflow-hidden">
-          {/* <FaHtml5
-            size="100px"
-            className="hover:text-red-400 transition-all hover:translate-y-[-4.5px] duration-300"
-          /> */}
-          {/* <FaCss3
-            size="100px"
-            className="hover:text-blue-400 transition-all hover:translate-y-[-4.5px] duration-300"
-          /> */}
-          <SiTailwindcss
-            size="100px"
-            className="hover:text-green-400 transition-all hover:translate-y-[-4.5px] duration-300"
-          />
 
-          <FaJs
-            size="100px"
-            className="hover:text-yellow-300 transition-all hover:translate-y-[-4.5px] duration-300"
-          />
-          <FaReact
-            size="100px"
-            className="hover:text-blue-400 transition-all hover:translate-y-[-4.5px] duration-300"
-          />
-          <SiNextdotjs
-            size="100px"
-            className="hover:text-(--white) transition-all hover:translate-y-[-4.5px] duration-300"
-          />
-          <FaNode
-            size="100px"
-            className="hover:text-(--white) transition-all hover:translate-y-[-4.5px] duration-300"
-          />
-          <SiExpress
-            size="100px"
-            className="hover:text-(--white) transition-all hover:translate-y-[-4.5px] duration-300"
-          />
-          <SiMongodb
-            size="100px"
-            className="hover:text-green-600 transition-all hover:translate-y-[-4.5px] duration-300"
-          />
-          <SiReact
-            size="100px"
-            className="hover:text-blue-400 transition-all hover:translate-y-[-4.5px] duration-300"
-          />
-          <SiExpo
-            size="100px"
-            className="hover:text-(--white) transition-all hover:translate-y-[-4.5px] duration-300"
-          />
-          <SiFirebase
-            size="100px"
-            className="hover:text-orange-400 transition-all hover:translate-y-[-4.5px] duration-300"
-          />
-          {/* <SiMongoose
-            size="100px"
-            className="hover:text-(--white) transition-all hover:translate-y-[-4.5px] duration-300"
-          /> */}
+      {/* Tech Stack Marquee */}
+      <div className="w-full overflow-hidden my-12 md:my-16">
+        <div className="flex animate-marquee" style={{ width: "fit-content" }}>
+          {/* First set of icons */}
+          <div className="flex items-center gap-8 md:gap-12 px-4">
+            <SiTailwindcss
+              size={48}
+              className="text-(--primary) hover:text-cyan-400 transition-all duration-300 cursor-pointer"
+            />
+            <FaJs
+              size={48}
+              className="text-(--primary) hover:text-yellow-300 transition-all duration-300 cursor-pointer"
+            />
+            <FaReact
+              size={48}
+              className="text-(--primary) hover:text-blue-400 transition-all duration-300 cursor-pointer"
+            />
+            <SiNextdotjs
+              size={48}
+              className="text-(--primary) hover:text-(--white) transition-all duration-300 cursor-pointer"
+            />
+            <FaNode
+              size={48}
+              className="text-(--primary) hover:text-green-500 transition-all duration-300 cursor-pointer"
+            />
+            <SiExpress
+              size={48}
+              className="text-(--primary) hover:text-(--white) transition-all duration-300 cursor-pointer"
+            />
+            <SiMongodb
+              size={48}
+              className="text-(--primary) hover:text-green-600 transition-all duration-300 cursor-pointer"
+            />
+            <SiReact
+              size={48}
+              className="text-(--primary) hover:text-blue-400 transition-all duration-300 cursor-pointer"
+            />
+            <SiExpo
+              size={48}
+              className="text-(--primary) hover:text-(--white) transition-all duration-300 cursor-pointer"
+            />
+            <SiFirebase
+              size={48}
+              className="text-(--primary) hover:text-orange-400 transition-all duration-300 cursor-pointer"
+            />
+          </div>
+          {/* Duplicate set for seamless loop */}
+          <div className="flex items-center gap-8 md:gap-12 px-4">
+            <SiTailwindcss
+              size={48}
+              className="text-(--primary) hover:text-cyan-400 transition-all duration-300 cursor-pointer"
+            />
+            <FaJs
+              size={48}
+              className="text-(--primary) hover:text-yellow-300 transition-all duration-300 cursor-pointer"
+            />
+            <FaReact
+              size={48}
+              className="text-(--primary) hover:text-blue-400 transition-all duration-300 cursor-pointer"
+            />
+            <SiNextdotjs
+              size={48}
+              className="text-(--primary) hover:text-(--white) transition-all duration-300 cursor-pointer"
+            />
+            <FaNode
+              size={48}
+              className="text-(--primary) hover:text-green-500 transition-all duration-300 cursor-pointer"
+            />
+            <SiExpress
+              size={48}
+              className="text-(--primary) hover:text-(--white) transition-all duration-300 cursor-pointer"
+            />
+            <SiMongodb
+              size={48}
+              className="text-(--primary) hover:text-green-600 transition-all duration-300 cursor-pointer"
+            />
+            <SiReact
+              size={48}
+              className="text-(--primary) hover:text-blue-400 transition-all duration-300 cursor-pointer"
+            />
+            <SiExpo
+              size={48}
+              className="text-(--primary) hover:text-(--white) transition-all duration-300 cursor-pointer"
+            />
+            <SiFirebase
+              size={48}
+              className="text-(--primary) hover:text-orange-400 transition-all duration-300 cursor-pointer"
+            />
+          </div>
         </div>
       </div>
     </div>

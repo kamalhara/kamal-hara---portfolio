@@ -17,7 +17,7 @@ function page() {
       <Projects />
       <Services />
       <Skills />
-      <About />x
+      <About />
       <Contact />
       <Footer />
     </div>
